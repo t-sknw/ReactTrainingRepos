@@ -1,2 +1,2 @@
 # ReactTrainingRepos
-## xxx
+## React.jsの自習
