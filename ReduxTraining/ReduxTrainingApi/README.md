@@ -2,4 +2,4 @@
 
 ## デバッグ前の準備
 
-1. DB接続先：appsettings.jsonのDbConnectionに記入する。
+- DB 接続先を appsettings.json の DbConnection に記入する。
