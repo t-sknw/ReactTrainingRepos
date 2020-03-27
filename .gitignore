@@ -3,3 +3,14 @@
 ################################################################################
 
 /ReduxTraining/.vs
+/ReduxTraining/ReduxTrainingApi/bin
+/ReduxTraining/ReduxTrainingApi/obj
+/ReduxTraining/ReduxTrainingApi/Properties/PublishProfiles
+/ReduxTraining/ReduxTrainingApi/ReduxTrainingApi.csproj.user
+/ReduxTraining/ReduxTrainingApi/appsettings.json
+/ReduxTraining/ReduxTrainingClient/node_modules
+/ReduxTraining/ReduxTrainingClient/bin
+/ReduxTraining/ReduxTrainingClient/obj
+/ReduxTraining/ReduxTrainingClient/redux-training-client-app - Web Deploy.pubxml
+/ReduxTraining/ReduxTrainingClient/redux-training-client-app - Web Deploy.pubxml.user
+/ReduxTraining/ReduxTrainingClient/ReduxTrainingClient.njsproj.user
