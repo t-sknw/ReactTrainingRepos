@@ -1,8 +1,8 @@
 # ReduxTrainingClient
 
-## 設定
+## デバッグ前の準備
 
-webpack.config.dev.jsのprocess.env.API_URLにAPIのURLを記入する。
+- APIのURLをwebpack.config.dev.jsのprocess.env.API_URLに記入する。
 
 
 
